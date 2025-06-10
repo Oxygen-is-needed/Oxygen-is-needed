@@ -1,6 +1,6 @@
 <a href="Oxygen-is-needed.github.io/information">
 
-<center><img src="https://oxygen-is-needed.github.io/information/2.jpg" alt="Avatar" style="border-radius: 50%;"></img></center>
+<img src="https://oxygen-is-needed.github.io/information/2.jpg" alt="Avatar" style="border-radius: 50%;" align="center"></img>
 
 ###
 
