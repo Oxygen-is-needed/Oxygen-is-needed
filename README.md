@@ -1,8 +1,4 @@
 <a href="Oxygen-is-needed.github.io/information">
-  
-<div align="center">
-  <img src="https://oxygen-is-needed.github.io/information/2.jpg" alt="Avatar"></img>
-</div>
 
 ###
 
